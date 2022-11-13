@@ -1,3 +1,3 @@
 # apriori_algorithm_implementation
 
-apriori algorithm implementation in python
+Apriori Algorithm Implementation in Python
